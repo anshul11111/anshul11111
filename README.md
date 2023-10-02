@@ -1,5 +1,8 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&weight=100&size=30&duration=2500&pause=1000&color=60EFF7&center=true&vCenter=true&width=435&lines=Hey+There;I'm+Anshul+;Programmer;Web+Developer)](https://git.io/typing-svg)
+
 ### About Me
-I'm Anshul Rawat, a passionate programmer with a knack for web development and a love for electronics. I enjoy turning ideas into code and solving complex problems.
+A passionate programmer with a knack for web development and a love for electronics. I enjoy turning ideas into code and solving complex problems.
 
 ***
 
