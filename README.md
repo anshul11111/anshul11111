@@ -9,7 +9,7 @@ A passionate programmer with a knack for web development and a love for electron
 
 
 
-### Languages
+### Languages/skills
 
 
 ![](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -34,5 +34,6 @@ A passionate programmer with a knack for web development and a love for electron
 ### Connect with Me
 
 [![](https://img.shields.io/badge/LinkedIn-Anshul%20Rawat-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshulrawat1757)
+
 
 ![](https://komarev.com/ghpvc/?username=anshul11111&style=for-the-badge&color=brightgreen&label=VISITORS)
