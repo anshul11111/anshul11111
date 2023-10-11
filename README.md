@@ -1,4 +1,3 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=anshul11111&label=Profile%20views&color=d9381e&style=flat&width=100" alt="hehe" /></p>
 
 [![](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&weight=100&size=30&duration=2500&pause=1000&color=60EFF7&center=true&vCenter=true&width=435&lines=Hey+There;I'm+Anshul+;Programmer;Web+Developer)](https://git.io/typing-svg)
 
@@ -8,7 +7,7 @@
 A passionate programmer with a knack for web development and a love for electronics. I enjoy turning ideas into code and solving complex problems.
 
 ***
-<p align="center">
+
 
 
 ### Languages
@@ -26,7 +25,7 @@ A passionate programmer with a knack for web development and a love for electron
 
 ***
 
-### Top Languages
+### Top Languages/skills
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul11111&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </div>
@@ -34,5 +33,7 @@ A passionate programmer with a knack for web development and a love for electron
 ***
 
 ### Connect with Me
+
 [![](https://img.shields.io/badge/LinkedIn-Anshul%20Rawat-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshulrawat1757)
-</p>
+
+![](https://komarev.com/ghpvc/?username=anshul11111&style=for-the-badge&color=brightgreen&label=VISITORS)
