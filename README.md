@@ -1,4 +1,4 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=anshul11111&label=Profile%20views&color=d9381e&style=flat&width=1000" alt="hehe" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=anshul11111&label=Profile%20views&color=d9381e&style=flat&width=100" alt="hehe" /></p>
 
 [![](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&weight=100&size=30&duration=2500&pause=1000&color=60EFF7&center=true&vCenter=true&width=435&lines=Hey+There;I'm+Anshul+;Programmer;Web+Developer)](https://git.io/typing-svg)
 
